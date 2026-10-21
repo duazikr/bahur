@@ -774,7 +774,7 @@ h1, h2 { line-height: 1.04; }
 }
 .scent-choice i { top: 12px; right: 12px; font-size: 9px; }
 .scent-choice[aria-pressed="true"] {
-  outline: 3px solid var(--signal);
+  outline: 3px solid #b94D71;
   outline-offset: -3px;
   box-shadow: inset 0 0 0 1px #fff;
   transform: none;
