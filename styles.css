@@ -915,7 +915,7 @@ h1, h2 { line-height: 1.04; }
 }
 
 .contacts-modal {
-  position: relative;
+  position: fixed;
   width: min(646px, calc(100% - 28px));
   overflow: auto;
   background: transparent;
